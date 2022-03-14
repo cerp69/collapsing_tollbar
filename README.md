@@ -1,4 +1,6 @@
-# collapsing_tollbar
+# Collapsing Tollbar
+### Uma Toolbar para seu projeto Android
+
 Um exemplo para criar uma tollbar que encolhe na tela.
 
 Android Studio Bumblebee | 2021.1.1 Patch 2
